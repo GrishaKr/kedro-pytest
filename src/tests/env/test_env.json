@@ -1,0 +1,11 @@
+{
+  "catalog": {
+    "data_processing": {
+      "path": "conf/test/data_processing",
+      "patterns": [
+        "catalog*",
+        "catalog*/**"
+      ]
+    }
+  }
+}
