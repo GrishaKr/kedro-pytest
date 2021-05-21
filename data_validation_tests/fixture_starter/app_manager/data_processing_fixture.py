@@ -1,5 +1,4 @@
-from src.tests.helpers.data_catalog import DataCatalogHelper
-from typing import Dict
+from data_validation_tests.helpers.data_catalog import DataCatalogHelper
 
 
 class DataProcessingFixture:
